@@ -10,3 +10,7 @@ Libri trovati per l'approfondimento del linguaggio python con riguardo alla sua 
 -Python Machine Learning. Machine Learning and Deep Learning with Python, scikit-learn and TensorFlow 2, Sebastian Raschka
 
 -Artificial Intelligence, a Modern Approach, Stuart J. Russel, Pearson
+
+-Trevor Hastie Robert Tibshirani Jerome Friedman The Elements of Statistical Learning Data Mining, Inference, and Prediction, Springer
+
+-Python Data Science Handbook ESSENTIAL TOOLS FOR WORKING WITH DATA Jake VanderPlas, O'Reilly
