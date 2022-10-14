@@ -1,4 +1,4 @@
-# Books-and-Stuff
+# Books and Stuff
 Libri 📚 trovati per l'approfondimento del linguaggio python con riguardo alla sua implementazione nel Deep Learning
 
 -Programming Python. Powerful Object-Oriented Programming, Mark Lutz, O'Reilly
